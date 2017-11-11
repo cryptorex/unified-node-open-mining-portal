@@ -3,7 +3,7 @@ var fs = require('fs');
 var redis = require('redis');
 var async = require('async');
 
-var Stratum = require('stratum-pool);
+var Stratum = require('stratum-pool');
 var util = require('stratum-pool/lib/util.js');
 
 
